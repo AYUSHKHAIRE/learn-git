@@ -26,3 +26,7 @@ git blame sample.py
 git status 
 
 saging area means where like you modify some file , and before commiting you put it in saging area .( git add )
+
+# revert
+git reset --hard [id]
+this cleans all below head 
