@@ -4,6 +4,8 @@ print("hello git !")
 def add(a,b):
     return a+b
 
+# add a function
+
 def agecheck(age):
     if age > 18 :
         return True

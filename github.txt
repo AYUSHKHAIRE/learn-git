@@ -19,3 +19,7 @@ git remove
 # commit 
 git commit -m  "created script.py and sample.py file for initialization"
 git log
+git log --oneline
+git show id
+q
+git blame sample.py 
