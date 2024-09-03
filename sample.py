@@ -11,8 +11,12 @@ def agecheck(age):
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         return True
     
+=======
+        return True
+>>>>>>> parent of 55b1ad5 (added sample in sample.py)
 =======
         return True
 >>>>>>> parent of 55b1ad5 (added sample in sample.py)
