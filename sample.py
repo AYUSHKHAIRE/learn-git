@@ -9,3 +9,6 @@ def add(a,b):
 def agecheck(age):
     if age > 18 :
         return True
+    
+def sample():
+    pass
