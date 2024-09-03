@@ -1,0 +1,15 @@
+# setup
+sudo apt install git
+git --version
+git
+
+# config
+git config --global user.name "ayushkhaire" 
+git config --global user.name 
+git config --global user.email "codeeayush@gmail.com" 
+
+# initialize
+git init 
+git config --global --add safe.directory '/mnt/codebase/THE  PROGRAMING/git'
+git add sample.py
+git diff
