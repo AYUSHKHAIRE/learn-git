@@ -13,3 +13,9 @@ git init
 git config --global --add safe.directory '/mnt/codebase/THE  PROGRAMING/git'
 git add sample.py
 git diff
+git add . 
+git remove 
+
+# commit 
+git commit -m  "created script.py and sample.py file for initialization"
+git log
