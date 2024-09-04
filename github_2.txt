@@ -76,3 +76,12 @@ but merge is better as for short history
 add and commit in a branch 
 git commit -a -m "commit1"
 git rebase branch4 [target branch]
+
+#stashing 
+if somebody changed code on server 
+but you dont wish to chang and commit your code on local 
+but you still wish code on server also with uot any commit 
+you will do git stash 
+because in this case i dont want to add and commit local changes .
+
+so , git stash will save server changes in temprory directory 
