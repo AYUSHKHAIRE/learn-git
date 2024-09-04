@@ -26,15 +26,11 @@ in the branches , to moniter reverts and avoid some conflicts .
 i can merge some others commit for my code in a single commit 
 or it also make it easy to revert to someone elses code .
 
-see a branch
-git branch 
-
-create a branch 
-git branch new_branch
-
 now enter in a branch 
 git checkout new_branch
 * represents current branch 
 
 make a new branch on the remote server 
 git push --set-upstream [remote] [branch]
+
+pushing in a new branch 
