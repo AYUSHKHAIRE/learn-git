@@ -19,3 +19,19 @@ view keys
 cd /home/[username]/.ssh/
 cat id_ed25519.pub
 ssh-ed25519 [public key] [email]
+
+# branch
+two developers or two features can be developed independemtly
+in the branches , to moniter reverts and avoid some conflicts .
+i can merge some others commit for my code in a single commit 
+or it also make it easy to revert to someone elses code .
+
+see a branch
+git branch 
+
+create a branch 
+git branch new_branch
+
+now enter in a branch 
+git checkout new_branch
+* represents current branch 
