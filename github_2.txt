@@ -1,2 +1,12 @@
 # part 2
 
+#add a remote server
+git remote add origin https://github.com/AYUSHKHAIRE/learn-git.git
+remote name is origin 
+
+# to see commands for fetch and push
+git remote -v
+# now my git know it is my server 
+
+# now push it
+git push -u  [server name ] origin [ branch ] main
