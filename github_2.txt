@@ -45,4 +45,5 @@ and push
 make a new branch 
 git checkout -b "branchtwo"
 
-branch made , a feature function new one second functionadded 
+branch made , a feature function new one second functionadded
+git push --set-upstream origin branchtwo 
