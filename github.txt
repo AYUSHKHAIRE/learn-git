@@ -30,3 +30,5 @@ saging area means where like you modify some file , and before commiting you put
 # revert
 git reset --hard [id]
 this cleans all below head 
+
+#part 1 complete
