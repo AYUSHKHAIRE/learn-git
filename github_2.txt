@@ -35,3 +35,6 @@ git branch new_branch
 now enter in a branch 
 git checkout new_branch
 * represents current branch 
+
+make a new branch on the remote server 
+git push --set-upstream [remote] [branch]
