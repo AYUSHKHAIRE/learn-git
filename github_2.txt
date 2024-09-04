@@ -19,3 +19,15 @@ view keys
 cd /home/[username]/.ssh/
 cat id_ed25519.pub
 ssh-ed25519 [public key] [email]
+
+see a branch
+git branch 
+
+make a new branch
+git branch name 
+
+go to a branch 
+git checkout branchname 
+
+publish branch on repo
+git push --set-upstream [server] [branch]
