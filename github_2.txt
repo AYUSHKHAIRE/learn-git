@@ -34,3 +34,10 @@ make a new branch on the remote server
 git push --set-upstream [remote] [branch]
 
 pushing in a new branch 
+
+now go again to master for merging 
+
+merge the changes 
+git merge [server]/[branch]
+
+and push 
