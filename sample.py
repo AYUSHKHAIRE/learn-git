@@ -12,3 +12,12 @@ def agecheck(age):
         return True
 
 # let push our code first time :)
+
+# for the second time 
+# i am adding a function for a new branch 
+def second():
+    pass
+
+# add new feature in second branch 
+def second_feature_in_second_branch_add():
+    pass
