@@ -75,3 +75,4 @@ but merge is better as for short history
 
 add and commit in a branch 
 git commit -a -m "commit1"
+git rebase branch4 [target branch]
