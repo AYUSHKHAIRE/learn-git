@@ -85,3 +85,10 @@ you will do git stash
 because in this case i dont want to add and commit local changes .
 
 so , git stash will save server changes in temprory directory 
+git stash 
+after changes 
+do git pull 
+now apply my changes again 
+git stash apply
+
+it just maintained a stack 
