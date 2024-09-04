@@ -61,3 +61,17 @@ git checkout -b "branchtwo"
 branch made , a feature function new one second functionadded
 git push --set-upstream origin branchtwo 
 >>>>>>> origin/branchtwo
+
+
+rebase 
+in merge , if we start a branch and then merge after some commits ,
+if we merge , we will loose the commit history after merging . 
+
+to avoid this ,
+there is a method rebasing
+in which we do like we just add the head of new branch to the end of original branch .
+
+but merge is better as for short history 
+
+add and commit in a branch 
+git commit -a -m "commit1"
