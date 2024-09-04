@@ -9,7 +9,7 @@ git remote -v
 # now my git know it is my server 
 
 # now push it
-git push -u  [server name ] origin [ branch ] main
+git push -u  [server name ] [ branch ]  
 
 use SSH for authentication 
 

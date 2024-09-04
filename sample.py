@@ -8,21 +8,7 @@ def add(a,b):
 
 def agecheck(age):
     if age > 18 :
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
         return True
-    
-=======
         return True
->>>>>>> parent of 55b1ad5 (added sample in sample.py)
-=======
-        return True
->>>>>>> parent of 55b1ad5 (added sample in sample.py)
-=======
-        return True
->>>>>>> parent of 55b1ad5 (added sample in sample.py)
-=======
-        return True
->>>>>>> parent of 55b1ad5 (added sample in sample.py)
+
+# let push our code first time :)
