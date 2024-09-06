@@ -20,7 +20,6 @@ cd /home/[username]/.ssh/
 cat id_ed25519.pub
 ssh-ed25519 [public key] [email]
 
-<<<<<<< HEAD
 see a branch
 git branch 
 
@@ -32,35 +31,6 @@ git checkout branchname
 
 publish branch on repo
 git push --set-upstream [server] [branch]
-=======
-# branch
-two developers or two features can be developed independemtly
-in the branches , to moniter reverts and avoid some conflicts .
-i can merge some others commit for my code in a single commit 
-or it also make it easy to revert to someone elses code .
-
-now enter in a branch 
-git checkout new_branch
-* represents current branch 
-
-make a new branch on the remote server 
-git push --set-upstream [remote] [branch]
-
-pushing in a new branch 
-
-now go again to master for merging 
-
-merge the changes 
-git merge [server]/[branch]
-
-and push 
-
-make a new branch 
-git checkout -b "branchtwo"
-
-branch made , a feature function new one second functionadded
-git push --set-upstream origin branchtwo 
->>>>>>> origin/branchtwo
 
 
 rebase 
